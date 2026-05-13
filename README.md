@@ -1,5 +1,4 @@
-# Sensor data super resolution method
-###  The full text will be updated in the journal later
+# CSIR-Net: A Continuous Spatio-temporal Information Redundancy Network Based on Structural Priors for Satellite Telemetry Data Reliability Enhancement
   Due to intellectual property restrictions, the complete implementation details of the comparative experiment have not been made public. For the models and configurations used in this comparative experiment, please refer to the following literature:
   
   [1] **ANFIS**: M. Ismail, C. Shang, J. Yang, and Q. Shen, “Sparse data-based image super-resolution with ANFIS interpolation,” Neural Computing & Applications, vol. 35, no. 10, pp. 7221–7233, Apr. 2023, doi: 10.1007/s00521-021-06500-x.
@@ -17,3 +16,31 @@
   [7] **MATSR**: H. Jin, X. Chu, J. Qi, J. Feng, and W. Mu, “Learning multiple attention transformer super-resolution method for grape disease recognition,” Expert Systems with Applications, vol. 241, p. 122717, May 2024, doi: 10.1016/j.eswa.2023.122717.
   
   [8]**Sr4Upsample**: Q. He and S. Wang, “Improving 2D displacement accuracy in bridge vibration measurement with color space fusion and super resolution,” Advanced Engineering Informatics, vol. 65, p. 103248, May 2025, doi: 10.1016/j.aei.2025.103248.
+  
+## BibTeX
+
+```bibtex
+@article{wang2026csirnet,
+  title = {CSIR-Net: A Continuous Spatio-temporal Information Redundancy Network Based on Structural Priors for Satellite Telemetry Data Reliability Enhancement},
+  author = {Wang, Yingqi and Meng, Shengwei and Song, Yuchen and Liu, Datong},
+  journal = {Reliability Engineering \& System Safety},
+  year = {2026},
+  pages = {112868},
+  issn = {0951-8320},
+  doi = {10.1016/j.ress.2026.112868},
+  url = {https://www.sciencedirect.com/science/article/pii/S0951832026006794}
+}
+
+@article{wang2025pian,
+  title = {PIAN: A Physics-informed Assimilation Neural Network for Temporal Super-resolution Reconstruction of Sensor Data in Satellite Attitude Control System},
+  author = {Wang, Yingqi and Song, Yuchen and Liu, Datong},
+  journal = {Advanced Engineering Informatics},
+  volume = {68},
+  number = {Part C},
+  pages = {103805},
+  year = {2025},
+  issn = {1474-0346},
+  doi = {10.1016/j.aei.2025.103805},
+  url = {https://www.sciencedirect.com/science/article/pii/S1474034625006986}
+}
+```
