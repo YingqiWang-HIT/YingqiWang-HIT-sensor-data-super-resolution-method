@@ -1,4 +1,4 @@
-# CSIR-Net: A Continuous Spatio-temporal Information Redundancy Network Based on Structural Priors for Satellite Telemetry Data Reliability Enhancement
+# PIAN: A Physics-informed Assimilation Neural Network for Temporal Super-resolution Reconstruction of Sensor Data in Satellite Attitude Control System
   Due to intellectual property restrictions, the complete implementation details of the comparative experiment have not been made public. For the models and configurations used in this comparative experiment, please refer to the following literature:
   
   [1] **ANFIS**: M. Ismail, C. Shang, J. Yang, and Q. Shen, “Sparse data-based image super-resolution with ANFIS interpolation,” Neural Computing & Applications, vol. 35, no. 10, pp. 7221–7233, Apr. 2023, doi: 10.1007/s00521-021-06500-x.
